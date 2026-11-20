@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/helpdesk.db
+data/index.json
+.venv/
